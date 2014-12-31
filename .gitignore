@@ -1,0 +1,6 @@
+*.suo
+CopaMinerva/CopaMinerva/.ntvs_analysis.dat
+*.ini
+*.sln
+*.njsproj
+CopaMinerva/CopaMinerva/node_modules/
